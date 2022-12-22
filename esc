@@ -1,0 +1,47 @@
+[33mcommit d595b8454709a1fc08da2373fccace6cdce0b628[m[33m ([m[1;36mHEAD -> [m[1;32mreact[m[33m, [m[1;31morigin/react[m[33m)[m
+Author: wrst <gbpleq1@gmail.com>
+Date:   Mon Oct 31 21:41:05 2022 +0700
+
+    создал шаблон CRA и первые компоненты
+
+[33mcommit 63087c6ce53e3acf087192e060b436fb631567b3[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: c9f60c6 4e9e9e7
+Author: wrst69 <83876779+wrst69@users.noreply.github.com>
+Date:   Mon Aug 8 15:14:57 2022 +0700
+
+    Merge pull request #1 from wrst69/telegram
+    
+    added server and telegram bot
+
+[33mcommit 4e9e9e7d18e8b6378ce5ae316b374b0231ea62f9[m
+Author: wrst mac <gbpleq1@gmail.com>
+Date:   Mon Aug 8 15:12:04 2022 +0700
+
+    added server and telegram bot
+
+[33mcommit c9f60c662a4fb88721c50c2746af94a9cba29a08[m
+Author: wrst69 <83876779+wrst69@users.noreply.github.com>
+Date:   Tue May 24 10:27:35 2022 +0700
+
+    Add files via upload
+    
+    Добавлено автозаполнение отчетного периода.
+
+[33mcommit 61b9402221fe033c03645e3ddc5aa2671be84beb[m
+Author: wrst69 <83876779+wrst69@users.noreply.github.com>
+Date:   Sat May 21 19:19:43 2022 +0700
+
+    Add files via upload
+    
+    На форму пользователя добавлен  ComboBox с номерами договоров. При смене договора заполняет справку актуальными данными из contractsDataTable.
+
+[33mcommit 1b7a23e14175ffa0af6e96048aabe1bc136cac85[m
+Author: wrst69 <83876779+wrst69@users.noreply.github.com>
+Date:   Sat May 21 16:50:58 2022 +0700
+
+    Add files via upload
+    
+    Реализовано:
+    1. выбор актов в режиме  MultiSelect
+    2. основная логика расчета
+    3. dataTable для договоров
